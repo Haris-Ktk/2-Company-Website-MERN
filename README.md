@@ -7,7 +7,7 @@ It’s designed for **businesses and organizations** to present their services, 
 
 ## 🔗 Live Demo  
 👉 [View Project](https://devtechcompany.vercel.app/)  
-*(Replace with actual link once deployed)*  
+  
 
 ---
 
